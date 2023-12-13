@@ -46,7 +46,7 @@ Model the demand for shared bikes with the available independent variables. It w
         - **Winter Season (season_winter)**: In Winter season there is increase of 0.0831 units of bike hire.
         - **Month of September(Sep)**: In September month there is increase of 0.0767 units of bike hire.
         - **Summer Season (season_summer)**: In summer season there is increase of 0.0453 units of bike hire.
-
+        - **holiday**: On holiday there is decrease of 0.0980 units of bike hire.
         - **windspeed**: For unit increase in windspeed there is decrease of 0.1480 units in the bike hire quantity.
         - **weather_mist**: Whenever weather is Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist there is decrease of 0.0816 units in the bike hire quantity.
         - **Spring Season (season_spring)**: In spring season there is decrease of 0.0669 units of bike hire.
